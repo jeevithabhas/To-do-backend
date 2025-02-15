@@ -17,5 +17,4 @@ The backend is responsible for handling the creation, retrieval, updating, and d
 3. **Update Tasks:** Users can update task details or toggle their completion status by sending a PUT or PATCH request respectively. The server updates the task in the database.
 4. **Delete Tasks:** Users can delete a task by sending a DELETE request. The server removes the task from the database.
 
-## License
 
